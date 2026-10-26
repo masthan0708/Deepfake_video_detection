@@ -1,0 +1,30 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Environment / secrets
+.env
+.env.*
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Large trained model files
+models/*.pt
+
+# Temporary Office files
+~$*Documents/
+Documents/
